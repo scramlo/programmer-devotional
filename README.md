@@ -28,6 +28,7 @@ Consistency among the devotionals can be achieved by implementing a common forma
 
 These four sections should not be denoted or parsed, they are a general guideline to create consistency. 
 ### Example
+```
 {
  {"contact": {
   {"name": "Brian Scramlin"},
@@ -51,5 +52,6 @@ These four sections should not be denoted or parsed, they are a general guidelin
  }
  }
 }
+```
 ## External Resources
 * [How to Write a Devotional](https://www.jerryjenkins.com/how-to-write-a-devotional/)
