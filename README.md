@@ -20,9 +20,10 @@ To future-proof this devotional content for future publication, there are a few 
   * Prayer
 ### Devotional Body
 Consistency among the devotionals can be achieved by implementing a common format. Please, to the best of your ability write your devotional body according to the following pattern:
-> Hook: An excellent lead and a compelling anecdote will grab and hold (hook) the reader’s attention.
-Book: Point them to the wisdom of the Bible (book).
-Look: Offer some unique way of seeing (look) how the Bible relates to his or her needs.
-Took: Finally, provide takeaway (took) value.
+>
+* Hook: An excellent lead and a compelling anecdote will grab and hold (hook) the reader’s attention.
+* Book: Point them to the wisdom of the Bible (book).
+* Look: Offer some unique way of seeing (look) how the Bible relates to his or her needs.
+* Took: Finally, provide takeaway (took) value.
 ## External Resources
 * [How to Write a Devotional](https://www.jerryjenkins.com/how-to-write-a-devotional/)
