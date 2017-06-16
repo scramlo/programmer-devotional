@@ -63,3 +63,4 @@ These four sections should not be denoted or parsed, they are a general guidelin
 ```
 ## External Resources
 * [How to Write a Devotional](https://www.jerryjenkins.com/how-to-write-a-devotional/)
+* [JSON Generator](http://objgen.com/json)
