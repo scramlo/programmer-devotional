@@ -38,7 +38,7 @@ These four sections should not be denoted or parsed, they are a general guidelin
         "email": "brian@nerdspecs.com"
       },
       "meta": {
-        "title": "\"Convention over Configuration\"",
+        "title": "Convention over Configuration",
         "timestamp": 1497611964,
         "scripturePassage": {
           "book": "John",
